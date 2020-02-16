@@ -162,3 +162,5 @@ In the Hibernate Configurations tab, click on the `+` icon (`Add Configuration..
 Once the file is configured, click `Finish` and `Apply->OK`.
 
 ![Configuration hierarchy](docs/screenshot_06.png "Configuration hierarchy")
+
+Now you can see your database tables in the hierarchy view of the configuration.
