@@ -13,6 +13,8 @@
     - [Create Project](#create-project)
     - [Add JARs](#add-jars)
     - [Hibernate Configuration](#hibernate-configuration)
+  - [Team](#team)
+  - [License](#license)
 
 ---
 ## Introduction
@@ -164,3 +166,15 @@ Once the file is configured, click `Finish` and `Apply->OK`.
 ![Configuration hierarchy](docs/screenshot_06.png "Configuration hierarchy")
 
 Now you can see your database tables in the hierarchy view of the configuration.
+
+---
+## Team
+| <a href="https://www.chiefbark.com" target="_blank">**Chiefbark**</a> |
+| :-: |
+| [![Chiefbark](https://avatars3.githubusercontent.com/u/24280701?s=460&v=4=200)](https://www.chiefbark.com) |
+| <a href="http://github.com/Chiefbark" target="_blank">`github.com/Chiefbark`</a> |
+
+---
+## License
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+- **[MIT license](https://github.com/Chiefbark/CStyle/blob/master/LICENSE)**
